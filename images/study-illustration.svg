@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="455" viewBox="0 0 550 455" role="img" aria-label="Study desk illustration">
+  <ellipse cx="275" cy="394" rx="215" ry="34" fill="#d6c9a5" opacity=".32"/>
+  <path d="M68 341c-12-35-1-83 24-116 22-29 60-34 87-60 30-30 57-51 114-38 70 16 104-3 143 36 40 41 55 111 27 167-26 50-126 77-218 59C151 371 87 397 68 341Z" fill="#b8cabc"/>
+  <g transform="rotate(-12 273 228)"><rect x="135" y="107" width="276" height="239" rx="16" fill="#244b40" opacity=".13" transform="translate(9 10)"/><rect x="135" y="107" width="276" height="239" rx="16" fill="#fffdf7"/><rect x="157" y="122" width="235" height="201" rx="8" fill="#f9f6e9"/>
+    <rect x="157" y="122" width="10" height="201" rx="4" fill="#eadba9"/>
+    <path d="M183 170h165M183 196h188M183 222h177M183 248h180M183 274h147M183 300h177" stroke="#d4ddcd" stroke-width="2"/>
+    <text x="184" y="151" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#264b41">Today's focus</text>
+    <rect x="185" y="180" width="13" height="13" rx="3" fill="#e1ac4e"/><path d="m189 186 3 3 6-7" stroke="#fff" stroke-width="2" fill="none"/>
+    <rect x="185" y="207" width="13" height="13" rx="3" fill="#e1ac4e"/><path d="m189 213 3 3 6-7" stroke="#fff" stroke-width="2" fill="none"/>
+    <rect x="185" y="234" width="13" height="13" rx="3" fill="none" stroke="#8ca99a" stroke-width="2"/>
+    <path d="M205 186h108M205 213h92M205 240h133" stroke="#83998d" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g transform="rotate(15 414 166)"><rect x="386" y="109" width="98" height="108" rx="6" fill="#dfae55"/><path d="M402 137h62M402 152h57M402 167h41" stroke="#fff4d8" stroke-width="4" stroke-linecap="round"/><path d="m445 188 5-10 4 10 11 2-8 7 2 10-10-6-10 6 2-10-8-7z" fill="#fbdf91"/></g>
+  <g transform="rotate(-27 119 176)"><rect x="76" y="131" width="90" height="101" rx="7" fill="#f4cfba"/><path d="M90 160h62M90 175h49M90 190h57" stroke="#c9877e" stroke-width="3.5" stroke-linecap="round"/></g>
+  <g><ellipse cx="421" cy="316" rx="56" ry="15" fill="#53756a" opacity=".14"/><path d="M379 259h76v52c0 24-19 31-38 31s-38-7-38-31z" fill="#f6eee0" stroke="#244b40" stroke-width="4"/><path d="M455 268h12c23 0 23 34 0 34h-13" fill="none" stroke="#244b40" stroke-width="8"/><ellipse cx="417" cy="260" rx="38" ry="11" fill="#e0d4bf"/><ellipse cx="417" cy="261" rx="29" ry="7" fill="#9f6b4a"/></g>
+  <g transform="rotate(-47 115 343)"><rect x="90" y="290" width="19" height="113" rx="6" fill="#d39a53"/><path d="M90 290v-16q9-16 19 0v16" fill="#f5e9d5"/><rect x="90" y="388" width="19" height="11" fill="#284d42"/></g>
+  <path d="m436 72 7 16 16 7-16 7-7 16-7-16-16-7 16-7z" fill="#dfad4d"/>
+  <path d="m105 86 4 9 9 4-9 4-4 9-4-9-9-4 9-4z" fill="#e4a265"/>
+  <circle cx="485" cy="262" r="6" fill="#f2cb8d"/><circle cx="67" cy="268" r="7" fill="#eecf9b"/>
+</svg>
