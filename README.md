@@ -17,7 +17,6 @@ pages/
 js/
   app.js
   site.js
-Lab_Assessment_Report.pdf
 README.md
 ```
 
@@ -40,17 +39,11 @@ python3 -m http.server 8000
 
 Open `http://localhost:8000/`.
 
-## GitHub Pages publishing
+## Published repository
 
-1. Create a public repository called `studyflow-lab` under your GitHub account.
-2. Upload the extracted files to the repository root, leaving `index.html` at the root.
-3. Open repository **Settings > Pages**.
-4. Choose **Deploy from a branch**, select **main** and **/(root)**, then save.
-5. When the website is live, copy its URL as well as the GitHub profile and repository URLs into the submission document.
+The website source is available at [MagdaleneTom/studyflow-lab](https://github.com/MagdaleneTom/studyflow-lab).
 
-## Assessment report
-
-`Lab_Assessment_Report.pdf` contains website screenshots, the folder structure, a DOM diagram, explanations of JavaScript and CSS code, and functional testing results. Add the student's name, matriculation number, and published links before final submission.
+The separate PDF laboratory report is supplied privately to the student for assessment submission. It is intentionally not published in this repository because it contains student information.
 
 ## Notes
 
