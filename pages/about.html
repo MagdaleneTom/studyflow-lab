@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Learn about the HTML, CSS, and JavaScript behind StudyFlow.">
+    <title>About the Project | StudyFlow</title>
+    <link rel="icon" type="image/svg+xml" href="../images/logo-mark.svg">
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="../js/site.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header"><div class="shell header-inner">
+      <a class="brand" href="../index.html"><img src="../images/logo-mark.svg" alt="" width="38" height="38"><span>study<span class="brand-accent">flow.</span></span></a>
+      <nav class="nav-links" aria-label="Main navigation"><a href="../index.html">Dashboard</a><a href="about.html" aria-current="page">About project</a><a href="guide.html">How it works</a></nav>
+      <div class="header-actions"><button class="theme-toggle" type="button" data-theme-toggle aria-label="Switch colour theme"><span class="theme-icon" aria-hidden="true">☾</span></button><a class="header-cta" href="../index.html#task-planner">My planner →</a></div>
+    </div></header>
+    <main class="shell" id="main-content">
+      <section class="page-hero"><span class="section-kicker">BEHIND THE WEBSITE</span><h1>A small project with<br><em>a clear purpose.</em></h1><p>StudyFlow is an educational demonstration of how HTML, CSS and JavaScript work together to create a usable, interactive website.</p></section>
+      <section class="info-grid" aria-label="Technologies used">
+        <article class="info-card"><span class="number">01 / STRUCTURE</span><h2>HTML</h2><p>Semantic elements such as <code>header</code>, <code>nav</code>, <code>main</code>, <code>section</code>, <code>form</code> and <code>footer</code> organise the content and give it meaning.</p></article>
+        <article class="info-card"><span class="number">02 / DESIGN</span><h2>CSS</h2><p>Reusable styles control colours, spacing, typography, card layouts, responsive grids and accessible visual states across three pages.</p></article>
+        <article class="info-card"><span class="number">03 / INTERACTION</span><h2>JavaScript</h2><p>Event listeners power adding, completing, deleting, searching and filtering tasks. Browser storage remembers tasks and theme preferences.</p></article>
+      </section>
+      <section class="details-section" aria-labelledby="architecture-title"><span class="section-kicker">PROJECT ORGANISATION</span><h2 id="architecture-title">An easy-to-follow structure</h2><p>The website separates content, presentation and behaviour into distinct files and folders, as required for a typical web development laboratory.</p>
+        <table class="code-table"><tbody>
+          <tr><th><code>index.html</code></th><td>Main dashboard with task form, progress panel and task list.</td></tr>
+          <tr><th><code>pages/</code></th><td>Additional HTML pages: this introduction and a user guide.</td></tr>
+          <tr><th><code>css/</code></th><td>Central stylesheet with responsive layout and colour themes.</td></tr>
+          <tr><th><code>js/</code></th><td>Task management and shared interactions, including a FAQ accordion.</td></tr>
+          <tr><th><code>images/</code></th><td>Original SVG logo and study desk illustration.</td></tr>
+        </tbody></table>
+      </section>
+      <section class="closing-section" aria-label="Continue to website"><div class="closing-content"><span class="section-kicker">READY TO TRY IT?</span><h2>See the code<br><em>come to life.</em></h2><p>Explore the task planner and test the interactive features.</p></div><a class="button button-light" href="../index.html#task-planner">Open the planner →</a><span class="closing-decoration" aria-hidden="true">✳</span></section>
+    </main>
+    <footer class="site-footer"><div class="shell footer-inner"><a class="brand footer-brand" href="../index.html"><img src="../images/logo-mark.svg" alt="" width="30" height="30"><span>study<span class="brand-accent">flow.</span></span></a><p>Built with HTML, CSS &amp; JavaScript for a web development laboratory assessment.</p><span>© <span data-year>2026</span> StudyFlow</span></div></footer>
+  </body>
+</html>
