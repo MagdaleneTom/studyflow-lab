@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="StudyFlow logo">
+  <rect width="64" height="64" rx="19" fill="#284d42"/>
+  <path d="M16 19.5c7.1-2.8 13.1-2.5 17 1.2 4-3.7 9.8-4 16.2-1.2v25.9c-7.2-2.3-12.3-1.9-16.2 1.9-4-3.8-9.8-4.2-17-1.9z" fill="#fcf9ec" stroke="#fcf9ec" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M33 21v26" stroke="#284d42" stroke-width="2"/>
+  <path d="m39 33 4 4 7-8" fill="none" stroke="#dfab45" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
